@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 wolf
 walvis
 tijger
+=======
+gamen
+film kijken
+muziek
+>>>>>>> hobbies
